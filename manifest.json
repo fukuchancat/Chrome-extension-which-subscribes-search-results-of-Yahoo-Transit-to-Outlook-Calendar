@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Yahoo!路線情報の検索結果をOutlookカレンダーに登録するChrome拡張機能",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://transit.yahoo.co.jp/search/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
