@@ -8,7 +8,7 @@
 
 ![スクリーンショット](https://user-images.githubusercontent.com/19220989/128806535-a65a74a1-3260-4422-9917-ce4c23bfe7a4.png)
 
-![スクリーンショット](https://user-images.githubusercontent.com/19220989/128806433-2e0f23cf-0a6f-44e8-ad6b-cb0a5ff4064f.png)
+![スクリーンショット](https://user-images.githubusercontent.com/19220989/128808095-fe52000a-440b-4f08-b9fe-8e59c79b8d51.png)
 
 ルート全体を一つの予定として登録するのではなく、乗り換えごとに別々の予定として登録します。
 
